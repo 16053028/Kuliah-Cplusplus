@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485200101 source:c:\users\amd pc\documents\github\kuliah-cplusplus\operasi matrik\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
